@@ -1,4 +1,4 @@
-This is a solo version game of Yahtzee using the raylib 3d library and using C++ 20
+This is a solo version of the classic game Yahtzee, implemented using the raylib 3D library and written in C++ 20.
 
 How to Play
 The objective of Yahtzee is to score the highest number of points by rolling five dice to make various combinations.
