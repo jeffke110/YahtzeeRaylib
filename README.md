@@ -7,3 +7,6 @@ After three rolls or when you decide to stop, you must choose a category to scor
 The game includes all the standard Yahtzee categories, such as Ones, Twos, Threes, Fours, Fives, Sixes, Three of a Kind, Four of a Kind, Full House, Small Straight, Large Straight, Yahtzee, and Chance.
 The game will automatically calculate and keep track of your score.
 The game ends when all categories have been scored.
+
+The game is playable on your web browser:
+Link: https://jeffke110.github.io/yahtzee/yahtzee.html
