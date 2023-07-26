@@ -1,3 +1,4 @@
+# Yahtzee
 This is a solo version of the classic game Yahtzee, implemented using the raylib 3D library and written in C++ 20.
 
 How to Play
