@@ -38,6 +38,7 @@ public:
 	void resetFaces();
 	void resetGameScores();
 	void resetSavedFaces();
+	void resetCalculatedScores();
 	void resetTotal();
 	void setScreenResolution(int width, int height);
 

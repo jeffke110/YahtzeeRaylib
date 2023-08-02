@@ -315,3 +315,22 @@ void Dice::resetTotal() {
 	total = 0;
 	bonus = 0;
 }
+
+void Dice::resetCalculatedScores() {
+	calculatedScores =
+	{
+		{"Total Ones      ", 0},
+		{"Total Twos       ", 0},
+		{"Total Threes    ", 0},
+		{"Total Fours      ", 0},
+		{"Total Fives       ", 0},
+		{"Total Sixes       ", 0},
+		{"Chance            ", 0},
+		{"3 of a Kind       ",  0},
+		{"4 of a Kind       ",  0},
+		{"Small Straight     ", 0},
+		{"Large Straight     ", 0},
+		{"Full House      ",    0},
+		{"5 of a Kind       ",  0}
+	};
+}

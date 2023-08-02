@@ -64,6 +64,7 @@ void Game::handleInput() {
     //Press Reset Game button
     if (CheckCollisionPointRec(GetMousePosition(), resetGameButton) && IsMouseButtonReleased(MOUSE_LEFT_BUTTON)) {
         diceController->resetFaces();
+        diceController->resetCalculatedScores();
         diceController->resetGameScores();
         diceController->resetSavedFaces();
         diceController->resetTotal();
