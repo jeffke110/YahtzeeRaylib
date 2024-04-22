@@ -10,7 +10,7 @@ The game will automatically calculate and keep track of your score.
 The game ends when all categories have been scored.
 
 The game is playable on your web browser:
-Link: https://jeffke110.github.io/yahtzee/yahtzee.html
+Link: https://jeffke110.github.io/YahtzeeRaylib/yahtzee.html
 
 
 ![image](https://github.com/jeffke110/yahtzee/assets/80783850/c0fb508d-b633-40f8-8ff4-6c31ede728d4)
